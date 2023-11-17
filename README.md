@@ -9,6 +9,10 @@
 
 <br>
 
-[![Linkedin](https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png)](https://www.linkedin.com/in/miguelpsneto)
+<a href="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" target="_blank">
+  <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" alt="linkedin" width="100" height="30">
+</a>
 
+
+https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png
 
