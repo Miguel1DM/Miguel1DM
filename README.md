@@ -9,6 +9,6 @@
 
 <br>
 
-[![Logotipo do Google](https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png | 100x30)](https://www.linkedin.com/in/miguelpsneto)
+[![Logotipo do Google](https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png100x30)](https://www.linkedin.com/in/miguelpsneto)
 
 
