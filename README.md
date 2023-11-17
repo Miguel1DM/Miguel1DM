@@ -9,7 +9,6 @@
 
 <br>
 
-[![Linkedin](<img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png
-" width = "100px"/>)](https://www.linkedin.com/in/miguelpsneto)
+[![Logotipo do Google](https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png | 100x30)](https://www.linkedin.com/in/miguelpsneto)
 
-https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png
+
