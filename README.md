@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" target="_blank">
-  <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" alt="linkedin" width="100" height="30">
+  <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" alt="linkedin" width="100" height="300">
 </a>
 
 
