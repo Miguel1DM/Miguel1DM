@@ -9,4 +9,4 @@
 
 <br>
 
-<img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" width = "30px" > [Linkedin](https://www.linkedin.com/in/miguelpsneto)
+<img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" width = "300px" > [Linkedin](https://www.linkedin.com/in/miguelpsneto)
