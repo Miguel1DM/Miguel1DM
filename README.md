@@ -14,5 +14,3 @@
 </a>
 
 
-https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png
-
