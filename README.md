@@ -18,10 +18,10 @@
 <div style="display: flex;">
    
   <a href="https://github.com/Miguel1DM/Java" target="_blank">
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java" width="30" height="30">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java" width="30" height="30"> <p>java</p>
   </a> 
   
-  **java**
+  
 
   <a href="https://github.com/Miguel1DM/Pokedex/tree/versao2" target="_blank">
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/javaScript.png" alt="javaScript"  width="40" height="40">
