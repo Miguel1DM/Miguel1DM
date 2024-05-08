@@ -13,7 +13,7 @@
 <p></p>
 <br>
 
-<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="50" height="50"> **Habilidades**
+<h1>Habilidades</h1>
 
 <div style="display: flex;">
    
