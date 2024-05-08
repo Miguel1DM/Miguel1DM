@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/miguelpsneto" >
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/whatsapp.png" alt="whatsapp"  width="30" height="30">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/whatsapp.png" alt="whatsapp"  width="40" height="40">
   </a>
   
 </div>
