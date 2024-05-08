@@ -7,14 +7,15 @@
 <h1>Contato</h1>
 
 <div>
-  <a href="https://www.linkedin.com/in/miguelpsneto">
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin.png" alt="linkedin"  width="30" height="30">
-  </a>
 
   <a href="https://www.linkedin.com/in/miguelpsneto" >
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/whatsapp.png" alt="whatsapp"  width="40" height="40">
   </a>
   
+  <a href="https://www.linkedin.com/in/miguelpsneto">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin.png" alt="linkedin"  width="30" height="30">
+  </a>
+
 </div>
 
 <p></p>
