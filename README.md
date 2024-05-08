@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://github.com/Miguel1DM/Folder/blob/main/img/internet.png" width = "40px" > **Redes Sociais**
+<img src="https://github.com/Miguel1DM/Folder/blob/main/img/internet111.png" width = "40px" > **Redes Sociais**
 
 <a href="https://www.linkedin.com/in/miguelpsneto" target="_blank">
   <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin.png" alt="linkedin"  width="30" height="30">
