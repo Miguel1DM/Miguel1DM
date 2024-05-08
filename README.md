@@ -11,9 +11,7 @@
   <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin2.0.png" alt="linkedin" width="150" height="220">
 </a>
 
-<br>
-
-<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="70" height="70">
+<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="50" height="50">
 
 
 
