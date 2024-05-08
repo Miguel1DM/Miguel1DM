@@ -1,6 +1,6 @@
 ### Olá 👋
 
-**Olá, meu nome é Miguel Pereira tenho 17 anos, e estou cursando o tècnico em Dev, tenho habilidades em Java, Js, Python, HTML e Css.**
+<h2>Olá, meu nome é Miguel Pereira tenho 17 anos, e estou cursando o tècnico em Dev, tenho habilidades em Java, Js, Python, HTML e Css.</h2>
 
 <br>
 
