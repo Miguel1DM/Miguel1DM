@@ -11,7 +11,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/miguelpsneto">
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/Linkedin.png" alt="linkedin"  width="50" height="50">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/Linkedin.png" alt="linkedin"  width="45" height="45">
   </a>
 
 <p></p>
