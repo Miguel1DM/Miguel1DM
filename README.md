@@ -18,6 +18,9 @@
   <a href="https://github.com/Miguel1DM/Java" target="_blank">
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java"  width="40" height="40">
   </a>
+  <a href="https://github.com/Miguel1DM/Java" target="_blank">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java"  width="40" height="40">
+  </a>
 </div>
 
 
