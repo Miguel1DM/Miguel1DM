@@ -6,13 +6,17 @@
 
 <h1>Contato</h1>
 
-  <a href="https://api.whatsapp.com/send/?phone=%2B5511981295039&text&type=phone_number&app_absent=0" >
+<div>
+
+ <a href="https://api.whatsapp.com/send/?phone=%2B5511981295039&text&type=phone_number&app_absent=0" >
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/whatsapp.png" alt="whatsapp"  width="50" height="50">
   </a>
   
   <a href="https://www.linkedin.com/in/miguelpsneto">
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/Linkedin.png" alt="linkedin"  width="45" height="45">
   </a>
+  
+</div>
 
 <p></p>
 <br>
