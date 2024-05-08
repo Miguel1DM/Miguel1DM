@@ -21,7 +21,11 @@
   </a>
 
   <a href="https://github.com/Miguel1DM/Pokedex/tree/versao2" target="_blank">
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/javaScript.png" alt="java"  width="30" height="30">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/javaScript.png" alt="javaScript"  width="30" height="30">
+  </a>
+
+  <a href="https://github.com/Miguel1DM/listaContatos/tree/frontEnd/v1.1" target="_blank">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/react.png" alt="react"  width="30" height="30">
   </a>
 </div>
 
