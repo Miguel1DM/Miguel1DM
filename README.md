@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://github.com/Miguel1DM/listaContatos/tree/Api" target="_blank">
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/node.png" alt="nodeJs"  width="70" height="50">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/node.png" alt="nodeJs"  width="80" height="50">
   </a>
 </div>
 
