@@ -12,7 +12,7 @@
 <br>
 <br/>
 
-<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="40" height="40"> **Habilidades**
+<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="50" height="50"> **Habilidades**
 
 <a href="https://github.com/Miguel1DM/Java" target="_blank">
   <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java"  width="40" height="40">
