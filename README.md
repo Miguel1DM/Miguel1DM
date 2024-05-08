@@ -6,7 +6,7 @@
 
 <h1>Contato</h1>
 
-<div style="display: flex;">
+<div >
   <a href="https://www.linkedin.com/in/miguelpsneto" target="_blank">
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin.png" alt="linkedin"  width="30" height="30">
   </a>
