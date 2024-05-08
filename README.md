@@ -21,11 +21,6 @@
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java" width="30" height="30">
   </a> 
 
-  <div>
-    <p> **java** </p>
-  </div>
-  
-
   <a href="https://github.com/Miguel1DM/Pokedex/tree/versao2" target="_blank">
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/javaScript.png" alt="javaScript"  width="40" height="40">
   </a>
