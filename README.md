@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/miguelpsneto" target="_blank">
   <img src="https://github.com/Miguel1DM/Folder/blob/main/img/linkedin.png" alt="linkedin"  width="30" height="30">
 </a>
-
+<br>
 <br/>
 
 <img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="50" height="50">
