@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="50" height="50" margin-top="10px">
+<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="50" height="50" margin-top=10px>
 
 
 
