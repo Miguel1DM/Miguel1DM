@@ -18,8 +18,8 @@
   <a href="https://github.com/Miguel1DM/Java" target="_blank">
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java"  width="40" height="40">
   </a>
-  <a href="https://github.com/Miguel1DM/Java" target="_blank">
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="java"  width="40" height="40">
+  <a href="https://github.com/Miguel1DM/Pokedex/tree/versao2" target="_blank">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/javaScript.png" alt="java"  width="30" height="30">
   </a>
 </div>
 
