@@ -32,6 +32,11 @@
   <a href="https://github.com/Miguel1DM/listaContatos/tree/Api" target="_blank">
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/node.png" alt="nodeJs"  width="78" height="50">
   </a>
+
+  <a href="https://github.com/Miguel1DM/listaContatos/tree/Banco-de-Dados" target="_blank">
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/mysql.png" alt="mysql"  width="40" height="40">
+  </a>
+  
 </div>
 
 
