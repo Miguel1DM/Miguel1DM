@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="100" height="100">
+<img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" alt="tecnologia"  width="70" height="70">
 
 
 
