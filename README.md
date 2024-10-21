@@ -1,4 +1,4 @@
-<h3>Sou Miguel Pereira, tenho 17 anos e sou técnico em Desenvolvimento de Sistemas. Tenho experiência em uma variedade de linguagens e tecnologias, incluindo Java, JavaScript, Python, HTML, CSS, Node.js, React, Express, MySQL e MongoDB.</h3> 
+<h3>Sou Miguel Pereira, possuo formação técnica na área e experiência com diversas linguagens e tecnologias, incluindo Java, JavaScript, Python, HTML, CSS, Node.js, React, Express, MySQL e MongoDB. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e contribuir para projetos inovadores.</h3> 
 <br> 
 <h1>Entre em contato</h1> 
 <div> 
