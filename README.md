@@ -13,19 +13,16 @@
 <br> 
 <h1>Habilidades Técnicas</h1> 
 <div style="display: flex;"> 
-  <a href="https://github.com/Miguel1DM/Java" target="_blank"> 
-    <img src="https://github.com/Miguel1DM/Folder/blob/main/img/java.png" alt="Java" width="40" height="40"> 
-  </a> 
-  <a href="https://github.com/Miguel1DM/Pokedex/tree/versao2" target="_blank"> 
+  <a href="https://github.com/Miguel1DM/OlhoMagico" target="_blank"> 
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/javaScript.png" alt="JavaScript" width="40" height="40"> 
   </a> 
-  <a href="https://github.com/Miguel1DM/listaContatos/tree/frontEnd/v1.1" target="_blank"> 
+  <a href="https://github.com/Miguel1DM/OlhoMagico" target="_blank"> 
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/react.png" alt="React" width="40" height="40"> 
   </a>
-  <a href="https://github.com/Miguel1DM/listaContatos/tree/Api" target="_blank"> 
+  <a href="https://github.com/Miguel1DM/OlhoMagico" target="_blank"> 
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/node.png" alt="Node.js" width="40" height="40"> 
   </a> 
-  <a href="https://github.com/Miguel1DM/listaContatos/tree/Banco-de-Dados" target="_blank"> 
+  <a href="https://github.com/Miguel1DM/OlhoMagico" target="_blank"> 
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/mysql.png" alt="MySQL" width="40" height="40">
   </a> 
 </div>
