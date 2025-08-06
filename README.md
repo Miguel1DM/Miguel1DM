@@ -1,4 +1,19 @@
-<h3>Sou Miguel Pereira, possuo formação técnica na área e experiência com diversas linguagens e tecnologias, incluindo Java, JavaScript, Python, HTML, CSS, Node.js, React, Express, MySQL e Azure. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e contribuir para projetos inovadores.</h3> 
+<h3>👋 Olá! Sou Miguel Pereira, desenvolvedor em formação.<br>
+🎓 Atualmente curso o 1º semestre do tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
+💻 Sou formado como técnico em Desenvolvimento de Sistemas e tenho experiência prática com:
+
+Linguagens: Java, JavaScript, Python
+
+Front-end: HTML, CSS, React
+
+Back-end: Node.js, Express
+
+Banco de Dados: MySQL
+
+Cloud: Azure
+
+🚀 Já atuei em ambientes de desenvolvimento, com foco em soluções completas (front-end + back-end + banco de dados).
+🔍 Estou sempre em busca de novos desafios e oportunidades para aprender e contribuir com projetos inovadores.</h3> 
 <br> 
 <h1>Entre em contato</h1> 
 <div> 
