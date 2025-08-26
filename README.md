@@ -2,7 +2,7 @@
 🎓 Atualmente curso o 1º semestre do tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
 💻 Sou formado como técnico em Desenvolvimento de Sistemas e tenho experiência prática com:
 
-Linguagens: Java, JavaScript, Python
+Linguagens: Java, JavaScript, C#
 
 Front-end: HTML, CSS, React
 
