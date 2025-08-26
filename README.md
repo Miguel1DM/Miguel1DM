@@ -40,4 +40,7 @@ Cloud: Azure
   <a href="https://github.com/Miguel1DM/OlhoMagico" target="_blank"> 
     <img src="https://github.com/Miguel1DM/Folder/blob/main/img/mysql.png" alt="MySQL" width="40" height="40">
   </a> 
+   <a href="https://github.com/Miguel1DM/Compras-Sharp" target="_blank"> 
+    <img src="https://github.com/Miguel1DM/Folder/blob/main/c%23.png" alt="MySQL" width="45" height="45">
+  </a> 
 </div>
